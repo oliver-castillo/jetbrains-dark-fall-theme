@@ -1,0 +1,18 @@
+<svg height="40px" width="40px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" fill="#000000">
+    <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+    <g id="SVGRepo_iconCarrier">
+        <path style="fill:#78B9EB;"
+              d="M256,0C114.842,0,0,114.842,0,256s114.842,256,256,256s256-114.842,256-256S397.158,0,256,0z">
+        </path>
+        <path style="fill:#5A8BB0;" d="M256,0v512c141.158,0,256-114.842,256-256S397.158,0,256,0z"></path>
+        <g>
+            <circle style="fill:#3C5D76;" cx="132.129" cy="198.194" r="24.774"></circle>
+            <circle style="fill:#3C5D76;" cx="132.129" cy="346.839" r="24.774"></circle>
+        </g>
+        <circle style="fill:#1E2E3B;" cx="396.387" cy="247.742" r="24.774"></circle>
+        <circle style="fill:#3C5D76;" cx="214.71" cy="115.613" r="41.29"></circle>
+        <circle style="fill:#1E2E3B;" cx="322.065" cy="338.581" r="66.065"></circle>
+    </g>
+</svg>

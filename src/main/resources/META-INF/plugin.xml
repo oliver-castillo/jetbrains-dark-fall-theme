@@ -1,8 +1,10 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>com.github.olivercastillo.jetbrainsdarkfalltheme</id>
-    <name>jetbrains-dark-fall-theme</name>
-    <vendor>oliver-castillo</vendor>
+    <name>Dark Fall</name>
+    <vendor email="olcastillot@gmail.com" url="https://github.com/oliver-castillo">Oliver Castillo</vendor>
+    <version>1.0.1</version>
+    <idea-version since-build="242.21829.142"/>
 
     <depends>com.intellij.modules.platform</depends>
 
@@ -10,9 +12,11 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <toolWindow factoryClass="com.github.olivercastillo.jetbrainsdarkfalltheme.toolWindow.MyToolWindowFactory" id="MyToolWindow"/>
+        <themeProvider id="2a9b1c8b-b1ab-4290-99fa-4c98a499a371" path="/theme/dark_fall.theme.json"/>
     </extensions>
 
     <applicationListeners>
-        <listener class="com.github.olivercastillo.jetbrainsdarkfalltheme.listeners.MyApplicationActivationListener" topic="com.intellij.openapi.application.ApplicationActivationListener"/>
+        <listener class="com.github.olivercastillo.jetbrainsdarkfalltheme.listeners.MyApplicationActivationListener"
+                  topic="com.intellij.openapi.application.ApplicationActivationListener"/>
     </applicationListeners>
 </idea-plugin>
