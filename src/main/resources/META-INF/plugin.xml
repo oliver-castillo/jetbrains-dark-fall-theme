@@ -3,8 +3,7 @@
     <id>com.github.olivercastillo.jetbrainsdarkfalltheme</id>
     <name>Dark Fall</name>
     <vendor email="olcastillot@gmail.com" url="https://github.com/oliver-castillo">Oliver Castillo</vendor>
-    <version>1.0.1</version>
-    <idea-version since-build="242.21829.142"/>
+    <version>1.0.2</version>
 
     <depends>com.intellij.modules.platform</depends>
 
