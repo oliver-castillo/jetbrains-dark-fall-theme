@@ -4,6 +4,7 @@
     <name>Dark Fall</name>
     <vendor email="olcastillot@gmail.com" url="https://github.com/oliver-castillo">Oliver Castillo</vendor>
     <version>1.0.2</version>
+    <idea-version since-build="242.21829.142"/>
 
     <depends>com.intellij.modules.platform</depends>
 
